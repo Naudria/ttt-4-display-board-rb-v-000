@@ -72,20 +72,3 @@ def display_board(board)
   puts "-----------"
   puts " X | O | O "
 end
-=begin
-def display_board(board)
-  board = ["X","X","X","X","X","X","X","X","X"]
-  puts " X | X | X "
-  puts "-----------"
-  puts " X | X | X "
-  puts "-----------"
-  puts " X | X | X "
-end
-def display_board(board)
-  board = ["O","O","O","O","O","O","O","O","O"]
-  puts " O | O | O "
-  puts "-----------"
-  puts " O | O | O "
-  puts "-----------"
-  puts " O | O | O "
-end
